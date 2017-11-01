@@ -1,0 +1,8 @@
+git log - to view all history commits. And to return to the previos commits if you know their title.
+git clon - to clone repository. Difference between copy that is git clone copies all line of commits.
+git checkout - to check commit which you will choose.
+git status - check info about existence of produced commits.
+git init - to create new repository.
+git add - to add files to the stagiing area (area between working directory and repository)
+
+How is the staging area different from the working directory and the repository? What value do you think it offers???? 

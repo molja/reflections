@@ -4,5 +4,28 @@ git checkout - to check commit which you will choose.
 git status - check info about existence of produced commits.
 git init - to create new repository.
 git add - to add files to the stagiing area (area between working directory and repository)
+git log --graph --oneline master coins easy-mode - (master, coins, easy-mode names of branches). 
+show you history list of branches which you reminded.
+git branch -d coins - delete label
+git show (id commit)- difference between current commit and his last parent
+git merge master coins -(master, coins- names of branches.) to merge branches.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 How is the staging area different from the working directory and the repository? What value do you think it offers???? 

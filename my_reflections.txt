@@ -1,3 +1,4 @@
+list of commands
 git log - to view all history commits. And to return to the previos commits if you know their title.
 git clon - to clone repository. Difference between copy that is git clone copies all line of commits.
 git checkout - to check commit which you will choose.
@@ -9,6 +10,7 @@ show you history list of branches which you reminded.
 git branch -d coins - delete label
 git show (id commit)- difference between current commit and his last parent
 git merge master coins -(master, coins- names of branches.) to merge branches.
+
 
 
 

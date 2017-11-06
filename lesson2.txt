@@ -1,0 +1,25 @@
+What happens when you initialize a repository? 
+-I create a new repo.
+
+Why do you need to do it?
+
+- It can be used to convert an existing, unversioned project to a Git repository or initialize a new, empty repository
+
+How is the staging area different from the working directory and the repository?
+
+-User can do all the work, creating, editing, deleting and organizing files in the working area and when he needs to commit the modified files, it will be needs to bring those files in the staging area using "git add" commands and only those files will be made available for commit.
+
+
+
+What are some situations when branches would be helpful in keeping your history
+organized? 
+- if you have a bug you can lok through your history and analyze in what commit happend something wrong. Then use 'git checkout' to choose this commit and check it using command 'gitt diff' by checking previous and current commit.
+
+How would branches help?
+
+
+- Big amount of developers are able to work at the same time by one project.
+
+
+What is the result of merging two branches together?
+- As a result we have one branch with all corrections.

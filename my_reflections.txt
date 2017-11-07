@@ -10,6 +10,12 @@ show you history list of branches which you reminded.
 git branch -d coins - delete label
 git show (id commit)- difference between current commit and his last parent
 git merge master coins -(master, coins- names of branches.) to merge branches.
+git pull origin master -(origin- name we use within repo to refer to repo on GitHub, master- name of branch)- to pull data from GitHub to my local computer
+git remote - to see all remotes
+git remote add origin http/....... -to create an origin remote
+git remote -v - verbose information
+git push origin master - to pull data from local compuer to GitHub
+
 
 
 
